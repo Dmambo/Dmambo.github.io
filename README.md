@@ -39,7 +39,7 @@ git clone https://github.com/Dmambo/Portfolio-setup-and-mobile-firs.git**
 -![alt text](screenshot.JPG "here is the screenshot)
 
 #Live version
--live website link (https://github.com/Dmambo/Dmambo.github.io)
+-live website link [click here for site](https://dmambo.github.io/)
 
 👤 **Author1**
 
